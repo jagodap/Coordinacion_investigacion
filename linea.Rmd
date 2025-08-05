@@ -1,0 +1,143 @@
+
+---
+title: "Coordinacion"
+output: html_document
+runtime: shiny
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r echo=FALSE, message=FALSE}
+
+library(htmlwidgets)
+library(shiny)
+library(timevis)
+library(dplyr)
+
+timeline_data=read.csv("/home/camilo/Documentos/U de Chile/2025/Coordinación Investigación/datos.csv")
+
+```
+
+```{r echo=FALSE, message=FALSE}
+ui <- fluidPage(
+  titlePanel("Proyectos 2025"),
+  sidebarLayout(
+    sidebarPanel(
+      width = 3,
+      checkboxGroupInput("filtro_req", "Filtro por requisito:",
+                         choices = unique(timeline_data$Req),
+                         selected = unique(timeline_data$Req)),
+      checkboxGroupInput("filtro_tipo", "Filtro por Tipo:",
+                         choices = unique(timeline_data$Tipo),
+                         selected = unique(timeline_data$Tipo)),
+      actionButton("reset_filters", "Resetear Filtros")
+    ),
+    mainPanel(
+      timevisOutput("timeline")
+    )
+  )
+)
+
+
+
+```
+
+
+```{r echo=FALSE, message=FALSE}
+
+server <- function(input, output, session) {
+  
+  # Reactive filtered data
+  filtered_data <- reactive({
+    req(input$filtro_req, input$filtro_tipo)
+    
+    timeline_data %>%
+      filter(Req %in% input$filtro_req,
+             Tipo %in% input$filtro_tipo)
+  })
+  
+  # Render timeline
+  output$timeline <- renderTimevis({
+    timevis(filtered_data())
+        #HTML(rmarkdown::render("linea.Rmd", output_format = rmarkdown::html_fragment()))
+
+    
+    
+    
+  })
+  
+   observeEvent(input$reset_filters, {
+     updateCheckboxGroupInput(session, "filtro_req", selected = unique(timeline_data$Req))
+     updateCheckboxGroupInput(session, "filtro_tipo", selected = unique(timeline_data$Tipo))
+#    
+   })
+  
+  
+  
+  }
+  
+  # Reset all filters
+#   observeEvent(input$reset_filters, {
+#     updateCheckboxGroupInput(session, "filtro_req", selected = unique(timeline_data$Req))
+#     updateCheckboxGroupInput(session, "filtro_tipo", selected = unique(timeline_data$Tipo))
+#    
+#   })
+#   # Optional: Show only available options based on other filters
+#   observe({
+#     current_data <- timeline_data %>%
+#       filter(Req %in% input$Req,
+#              Tipo %in% input$Tipo)
+#     
+#     
+#   })
+#   
+#    downloadHandler(
+#     filename = function() {
+#       paste("coordinacion", "plot.html", sep = "_")
+#     },
+#     content = function(file) {
+#       htmlwidgets::saveWidget(output$plot, "coordinacion_plot_emo.html", selfcontained = TRUE)
+#       
+# #htmlwidgets::saveWidget(p, "coordinacion_plot.html", selfcontained = TRUE)
+#     }
+#   )
+# 
+#   
+#   
+# }
+
+shinyApp(ui, server)
+
+
+#htmlwidgets::saveWidget(shinyApp(ui, server), "p1.html", selfcontained = FALSE, libdir = "lib")
+
+
+```
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
