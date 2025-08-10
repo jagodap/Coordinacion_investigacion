@@ -14,33 +14,7 @@ library(htmltools)
 library(markdown)
 
 
-
-
 timeline_data <- read.csv("datos.csv", fileEncoding = "UTF-8")
-
-timeline_data <- timeline_data %>%
-  mutate(across(where(is.character), ~iconv(., to = "UTF-8")))
-
-safe_includeMarkdown <- function(path) {
-  tmp_file <- tempfile(fileext = ".md")
-  writeLines(
-    readLines(path, encoding = "UTF-8"), 
-    tmp_file, 
-    useBytes = TRUE
-  )
-  includeMarkdown(tmp_file)
-}
-
-# # Use in your UI
-# ui <- fluidPage(
-#   safe_includeMarkdown("content.md")
-# )
-
-
-
-
-
-
 
 
 ui <- fluidPage(
@@ -71,7 +45,7 @@ ui <- fluidPage(
       timevisOutput("timeline"),
       
       div(style = "margin-bottom: 50px; padding: 20px; background-color: #f5f5f5;",
-          safe_includeMarkdown("texto/lista.md"))
+          includeMarkdown("texto/lista.md"))
       
     )
   )

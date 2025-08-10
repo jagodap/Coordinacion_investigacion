@@ -1,7 +1,7 @@
 ---
 output: 
-  html_document: 
-    toc: true
+html_document: 
+toc: true
 ---
 <!-- -*- coding: utf-8 -*- -->
 
