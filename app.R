@@ -46,21 +46,13 @@ safe_includeMarkdown <- function(path) {
 ui <- fluidPage(
   titlePanel("Proyectos 2025"),
   
-  tags$head(
-    tags$style(HTML("
-      /* Ensure TOC styling works */
-      .tocify {
-        width: 20%;
-        max-height: 90vh;
-        overflow: auto;
-      }
-    "))
-  )
+  
   
   
   sidebarLayout(
     sidebarPanel(
-      width = 3,
+      uiOutput("toc"),
+            width = 3,
       checkboxGroupInput("filtro_req", "Filtro por requisito:",
                          choices = unique(timeline_data$Req),
                          selected = unique(timeline_data$Req)),
