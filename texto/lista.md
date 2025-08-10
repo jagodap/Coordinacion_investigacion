@@ -1,3 +1,8 @@
+---
+output: 
+  html_document: 
+    toc: true
+---
 <!-- -*- coding: utf-8 -*- -->
 
 
