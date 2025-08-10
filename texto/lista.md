@@ -1,8 +1,18 @@
 <!-- -*- coding: utf-8 -*- -->
 
+### __Nota:__ 
+
+Para consultar los proyectos de tu interés, desmarca los FILTROS arriba a la izquierda para seleccionar 
+con más precisoión los proyectos de tu interés. 
 
 
-FONDECYT Regular
+
+
+
+
+
+
+### __FONDECYT Regular__
 
 Este concurso financia proyectos de investigación científica o tecnológica 
 que conduzcan a nuevos conocimientos o aplicaciones, previstas a través de hipótesis de trabajo. 
@@ -27,7 +37,9 @@ Características:
 
 #https://anid.cl/proyectos-de-investigacion/fondecyt-regular/
 
-FONDECYT Iniciación en Investigación
+### __FONDECYT Iniciación en Investigación__
+
+
 Es una iniciativa para formar y fortalecer nuevos científicos. 
 Está dirigido específicamente a las nuevas generaciones de profesionales y posgraduados/as.
 
@@ -75,8 +87,8 @@ https://anid.cl/centros-e-investigacion-asociativa/anillos/
 Fondos Concursables Iniciativa Científica Milenio ICM
 La Iniciativa Milenio es un programa dependiente del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación (MCTCI). Promueve la creación y desarrollo de centros de excelencia (Institutos/Núcleos) para la investigación científica y tecnológica de frontera en el país.
 
-    1. Institutos Científicos Milenio de investigación en Ciencias Naturales y Exactas 
-Se trata de grupos de investigadores conformados por:
+    1. Institutos Científicos Milenio de investigación en Ciencias Naturales y Exactas
+      Se trata de grupos de investigadores conformados por:
     - Un(a) director (a) del Centro
     - Director(a) Alterno(a) del Centro Milenio
     - Investigadores(as) Asociados(as)
@@ -104,15 +116,17 @@ https://www.iniciativamilenio.cl/
 FONIS Fondo Nacional de Investigación y Desarrollo en Salud 
 El concurso busca generar y difundir conocimiento a través de proyectos de investigación científica y tecnológica aplicada que contribuyan a la resolución de los problemas prioritarios que se asocian a los objetivos sanitarios vigentes.
 Se considera la opción de postular a iniciativas de dos tipos: 
+
     1. Proyectos de Investigación Nacional y Desarrollo en Salud 
     2. Proyectos Programa Elige Vivir Sano
 
 Características y requerimientos:
+
     - Duración máxima 24 meses
     - Investigadores/as Principales con patrocinio institucional
-    - Instituciones legalmente constituidas: servicios de salud, universidades, centros de
-estudios, municipios, institutos profesionales, institutos de investigación, fundaciones y 
-	otras.
+    - Instituciones legalmente constituidas: servicios de salud, universidades,
+      centros de estudios, municipios, institutos profesionales, institutos de investigación, 
+      fundaciones y otras.
     - Financia: honorarios e incentivos de participación, subcontratos, capacitación, equipos,
 software, material fungible, pasajes y viáticos, seminarios, publicaciones, propiedad
 	intelectual y gastos generales.
