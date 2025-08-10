@@ -45,6 +45,19 @@ safe_includeMarkdown <- function(path) {
 
 ui <- fluidPage(
   titlePanel("Proyectos 2025"),
+  
+  tags$head(
+    tags$style(HTML("
+      /* Ensure TOC styling works */
+      .tocify {
+        width: 20%;
+        max-height: 90vh;
+        overflow: auto;
+      }
+    "))
+  )
+  
+  
   sidebarLayout(
     sidebarPanel(
       width = 3,

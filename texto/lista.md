@@ -7,7 +7,7 @@ output:
 
 
 
-### __Nota:__ 
+## __Nota:__ 
 
 Para consultar los proyectos de tu interés, desmarca los FILTROS arriba a la izquierda para seleccionar 
 con más precisoión los proyectos de tu interés. 
@@ -19,7 +19,7 @@ con más precisoión los proyectos de tu interés.
 
 
 
-### __FONDECYT Regular__
+## __FONDECYT Regular__
 
 Este concurso financia proyectos de investigación científica o tecnológica 
 que conduzcan a nuevos conocimientos o aplicaciones, previstas a través de hipótesis de trabajo. 
@@ -44,7 +44,7 @@ Características:
 
 #https://anid.cl/proyectos-de-investigacion/fondecyt-regular/
 
-### __FONDECYT Iniciación en Investigación__
+## __FONDECYT Iniciación en Investigación__
 
 
 Es una iniciativa para formar y fortalecer nuevos científicos. 
