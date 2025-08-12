@@ -221,7 +221,9 @@ La Fundación para la Innovación Agraria (FIA) es la agencia de innovación del
  http://www.fia.cl/convocatorias/
 
 
-Superintendencia de Seguridad Social (SUSESO) 
+## __Superintendencia de Seguridad Social (SUSESO)__
+
+
 Concurso destinado para el desarrollo de proyectos de investigación e innovación, relacionadas con la prevención de los riesgos de accidentes del trabajo y de enfermedades profesionales así como también con la atención de salud, rehabilitación y reinserción laboral derivadas de la Ley N°16.744, que constituyan un aporte efectivo y generen conocimientos en materias de seguridad y salud en el trabajo.
     
     - Se financian honorarios y remuneraciones, equipos, softwares, materiales, realización de exámenes o servicios de terceros, gastos en locomoción, pasajes y viáticos para el desarrollo del proyecto
@@ -234,7 +236,8 @@ Subsidio total 24 meses
 
 Plazo de 12 meses para revisiones panorámicas o revisiones sistemáticas o de análisis documental, métodos de estudio que no requieren trabajo en terreno. 
 
-Proyectos de iniciación en innovación:
+## __Proyectos de iniciación en innovación:__
+
 Subsidio total 12 meses
 
 ## __Proyectos de continuidad en innovación:__

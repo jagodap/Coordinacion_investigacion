@@ -36,6 +36,9 @@ ui <- fluidPage(
       checkboxGroupInput("filtro_finan", "Filtro por Financiamiento:",
                          choices = unique(timeline_data$Finan),
                          selected = unique(timeline_data$Finan)),
+            checkboxGroupInput("filtro_orien", "Filtro por Orientación:",
+                         choices = unique(timeline_data$Orien),
+                         selected = unique(timeline_data$Orien)),
       
       actionButton("reset_filters", "Resetear Filtros")
     ),
@@ -62,7 +65,8 @@ server <- function(input, output, session) {
     timeline_data %>%
       filter(Req %in% input$filtro_req,
              Tipo %in% input$filtro_tipo,
-             Finan %in% input$filtro_finan
+             Finan %in% input$filtro_finan,
+             Orien %in% input$filtro_orien
              
       )
   })
