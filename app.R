@@ -58,6 +58,7 @@ ui <- fluidPage(
 
 server <- function(input, output, session) {
   
+  
   # Reactive filtered data
   filtered_data <- reactive({
     req(input$filtro_req, input$filtro_tipo, input$filtro_finan)
