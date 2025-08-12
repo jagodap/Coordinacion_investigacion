@@ -16,9 +16,6 @@ con más precisoión los proyectos de tu interés.
 
 
 
-
-
-
 ## __FONDECYT Regular__
 
 Este concurso financia proyectos de investigación científica o tecnológica 
@@ -66,24 +63,13 @@ Características:
 #https://anid.cl/proyectos-de-investigacion/fondecyt-iniciacion/
 
 
-FONDECYT Postdoctorado
-El objetivo de este concurso es estimular la productividad y liderazgo de futuros investigadores con grado académico de doctor (obtenido en los 3 años antes de la postulación), con miras a su inserción laboral a través de su incorporación en grupos de investigación consolidados.	
-Características
-    - Duración de 2 a 3 años
-    - Postulantes con grado de doctor, obtenido 3 años previos al cierre de la postulación
-    - Se evalúa reseña de la trayectoria académica y de investigación del postulante
-    - Requiere dedicación exclusiva al trabajo de investigación
-    - Se requiere investigador/a patrocinante con al menos media jornada en la institución
-    - Se requiere patrocinio institucional 
-    - Financia: honorarios, viajes, equipamiento y/o gastos de operación 
 
-https://anid.cl/concursos/concurso-fondecyt-de-postdoctorado-2025/
+## __ANILLOS de Investigación en Ciencia y/o Tecnología y en Ciencias Sociales__
 
-
-ANILLOS de Investigación en Ciencia y/o Tecnología y en Ciencias Sociales  
 Este concurso busca fomentar el desarrollo científico y/o tecnológico del país, mediante investigación y desarrollo sustentados en un trabajo colaborativo, amplio y multidisciplinario. Promueve la conformación de grupos de investigación científica y/o tecnológica que trabajen bajo el alero de instituciones nacionales de investigación. Se busca fortalecer tanto la generación de conocimiento y el desarrollo de la ciencia y la tecnología, como la formación de capital humano.
 
 Los proyectos tendrán una duración de tres años y las líneas de financiamiento son:
+
     - Proyecto de Anillo de Investigación en Líneas Temáticas en el área de Ciencias y/o Tecnología. 
     - Financiamiento para tres años de ejecución.
     - Proyecto de Anillo de Investigación en Líneas Temáticas en el área de Ciencias Sociales. Financiamiento para tres años de ejecución.
@@ -91,7 +77,8 @@ Los proyectos tendrán una duración de tres años y las líneas de financiamien
 https://anid.cl/centros-e-investigacion-asociativa/anillos/
 
 
-Fondos Concursables Iniciativa Científica Milenio ICM
+## __Fondos Concursables Iniciativa Científica Milenio ICM__
+
 La Iniciativa Milenio es un programa dependiente del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación (MCTCI). Promueve la creación y desarrollo de centros de excelencia (Institutos/Núcleos) para la investigación científica y tecnológica de frontera en el país.
 
     1. Institutos Científicos Milenio de investigación en Ciencias Naturales y Exactas
@@ -120,7 +107,8 @@ Plazo de ejecución para Núcleos nuevos como renovación: 36 meses
 https://www.iniciativamilenio.cl/
 
 
-FONIS Fondo Nacional de Investigación y Desarrollo en Salud 
+## __FONIS Fondo Nacional de Investigación y Desarrollo en Salud__ 
+
 El concurso busca generar y difundir conocimiento a través de proyectos de investigación científica y tecnológica aplicada que contribuyan a la resolución de los problemas prioritarios que se asocian a los objetivos sanitarios vigentes.
 Se considera la opción de postular a iniciativas de dos tipos: 
 
@@ -143,20 +131,34 @@ software, material fungible, pasajes y viáticos, seminarios, publicaciones, pro
 https://anid.cl/investigacion-aplicada-e-innovacion/investigacion-y-desarrollo-en-salud-fonis/
 
 
-FONDEF: Fondo de Fomento al Desarrollo Científico y Tecnológico
-Concurso IDeA I+D tiene como propósito impulsar el desarrollo de proyectos de investigación e innovación de base científica tecnológica en estrecha colaboración con el sector privado, la sociedad civil y el Estado, contribuyendo al aumento de la competitividad, del bienestar y la calidad de vida de la población.
+## __FONDEF: Fondo de Fomento al Desarrollo Científico y Tecnológico__
+
+
+
+Concurso IDeA I+D tiene como propósito impulsar el desarrollo de proyectos de investigación e innovación de base científica tecnológica en estrecha colaboración 
+con el sector privado, la sociedad civil y el Estado, contribuyendo al aumento de la competitividad, del bienestar y la calidad de vida de la población.
+
     - Proyectos de I+D precompetitivos: se orientan al desarrollo de tecnologías, conocimiento e innovación en la forma de productos, servicios y/o procesos que puedan ser transferidos y, posteriormente, comercializados en mercados de tecnologías, servicios o de bienes de inversión, intermedios o finales.
     - Proyectos de I+D de interés público: se orientan al desarrollo de tecnologías, conocimiento e innovación para resolver problemas propuestos por entidades públicas o de la sociedad civil. Los resultados de los proyectos serán de dominio y uso público en Chile.
+
 Nivel de madurez tecnológica: TRL 2 como mínimo
+
 Líneas de financiamiento: proyectos genéricos y proyectos temáticos.
+
 Se entiende por proyectos genéricos a aquellos que abordan problemas, oportunidades o desafíos de todos los sectores del quehacer nacional. La aproximación puede ser en un sector específico o multisectorial. Entre los sectores de mayor relevancia figuran: Alimentos; Agropecuario; Forestal; Manufactura; Construcción e Infraestructura; Minería; Energía; Agua y Sector Sanitario; Pesca y Acuicultura; TIC; Educación; Salud; Turismo; Logística y Transporte; Comercio; Servicios Financieros; e Industria Creativa.
-Los proyectos temáticos comprenden aquellos orientados a resolver desafíos nacionales en un sector o temas definidos por el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación. Las temáticas para el concurso han sido las siguientes:
+
+Los proyectos temáticos comprenden aquellos orientados a resolver desafíos nacionales en un sector o temas definidos por el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación. 
+Las temáticas para el concurso han sido las siguientes:
+
     -  Resiliencia a la crisis climática, ambiental e hídrica y seguridad alimentaria.
     - Descarbonización justa: tecnologías de hidrógeno verde, litio y electromovilidad.
     - Transformación digital: inteligencia artificial, tecnologías aeroespaciales, análisis y uso de datos satelitales y astroingeniería.
     - Convivencia, cohesión social y seguridad ciudadana.
+
 Plazo de ejecución de hasta  24 meses
+
 Aporte de institución Beneficiaria: al menos 30% del monto solicitado a FONDEF (incremental y/o no incremental)
+
 Aporte de Asociadas: al menos un 15% del monto solicitado a FONDEF (incremental y/o no incremental)
 
 https://anid.cl/concursos/concurso-idea-id-2025/
@@ -164,40 +166,55 @@ https://anid.cl/concursos/concurso-idea-id-2025/
 ANID: https://www.anid.cl/
 
 
-Start Up Ciencia - Investigación Aplicada
+## __Start Up Ciencia - Investigación Aplicada__
+
+
 Promover el crecimiento y el fortalecimiento en etapa temprana de las empresas de base científico-tecnológica (EBCT) en Chile, a través del cofinanciamiento y el apoyo técnico en el proceso de desarrollo tecnológico, innovación, validación técnica y de negocios de los nuevos productos y/o servicios, facilitando su entrada a los mercados nacionales y/o internacionales.
 
 Plazo de ejecución de hasta 12 meses. 
+
 El aporte pecuniario corresponde, al menos, al 15% del costo total del proyecto.
+
 Bonificación: empresas lideradas por mujeres y empresas pertenecientes a regiones distintas a la Metropolitana
+
 https://anid.cl/investigacion-aplicada-e-innovacion/startup-ciencia/
 
-CORFO, Corporación de Fomento de la Producción es un servicio público descentralizado, con patrimonio propio y personalidad jurídica.
+
+## __CORFO, Corporación de Fomento de la Producción__ 
+
+es un servicio público descentralizado, con patrimonio propio y personalidad jurídica.
+
 La misión de CORFO es fomentar la inversión, la innovación y el emprendimiento, fortaleciendo, además, el capital humano y el desarrollo tecnológico para mejorar la productividad del país y alcanzar posiciones de liderazgo mundial en materia de competitividad.
 https://corfo.cl/sites/cpp/programasyconvocatorias
 
-CORFO - Programa Start-Up Chile Líneas 1, 2 y 3:
+
+## __CORFO - Programa Start-Up Chile Líneas 1, 2 y 3__:
+
 Línea 1: “Build”: atraer, potenciar y crear nuevos emprendimientos tecnológicos de alto impacto con visión global. 
 Para aquellos proyectos con un desarrollo comercial de hasta 12 meses y que se encuentran en etapa de idea, concepto o de prototipado.
+
     - Plazo: La ejecución de los proyectos deberá ser de 4 meses. 
     - Subsidio Corfo: para el/la beneficiario/a. Corfo cofinanciará hasta el 90% del costo total del proyecto.
     - Pago de Overhead a la Entidad Patrocinadora para Start-Up Chile.
 
 Línea 2: “Ignite”: generar un impacto socioeconómico en Chile, a través del apoyo a emprendimientos tecnológicos innovadores que permitan sofisticar y/o diversificar la matriz económica del país.
 Para aquellos proyectos con desarrollo comercial de hasta 36 meses, que utilicen a Chile como plataforma, y que cuenten, al menos, con un producto mínimo viable (MVP) o prototipo funcional de la solución.
+
     - Plazo: La ejecución de los proyectos de hasta 6 meses. 
     - Subsidio Corfo para el/la beneficiario/a. Corfo cofinanciará hasta el 80% del costo total del proyecto. Respecto de la líder del proyecto cuyo sexo registral sea femenino, Corfo cofinanciará hasta el 90% del costo total del proyecto.
     - Pago de Overhead a la Entidad Patrocinadora para Start-Up Chile.
 
 Línea 3: “Growth”: Generar un impacto socioeconómico en Chile, a través del apoyo a emprendimientos tecnológicos innovadores que permitan sofisticar y/o diversificar la matriz económica del país.
 Se deberá demostrar que el proyecto global (tanto en Chile como en el extranjero) ha tenido ingresos por ventas, en los 12 meses anteriores al mes de apertura del concurso.
+
     - Plazo de ejecución de los proyectos de hasta 12 meses. 
     - Subsidio Corfo: cofinanciará hasta el 50 % del costo total del proyecto. Respecto de la líder del proyecto cuyo sexo registral sea femenino, Corfo cofinanciará hasta el 60% del costo total del proyecto.
     - Pago de Overhead a la Entidad Patrocinadora para Start-Up Chile. 
 
 https://startupchile.org/
 
-Fundación para la Innovación Agraria FIA. 
+## __Fundación para la Innovación Agraria FIA__
+
 La Fundación para la Innovación Agraria (FIA) es la agencia de innovación del Ministerio de Agricultura. Su misión es contribuir a la solución eficiente de desafíos estratégicos del sector silvoagropecuario nacional y/o de la cadena agroalimentaria asociada, por medio del fomento, articulación y difusión tecnológica de procesos de innovación orientados al desarrollo sustentable.
 
  http://www.fia.cl/convocatorias/
@@ -205,17 +222,22 @@ La Fundación para la Innovación Agraria (FIA) es la agencia de innovación del
 
 Superintendencia de Seguridad Social (SUSESO) 
 Concurso destinado para el desarrollo de proyectos de investigación e innovación, relacionadas con la prevención de los riesgos de accidentes del trabajo y de enfermedades profesionales así como también con la atención de salud, rehabilitación y reinserción laboral derivadas de la Ley N°16.744, que constituyan un aporte efectivo y generen conocimientos en materias de seguridad y salud en el trabajo.
+    
     - Se financian honorarios y remuneraciones, equipos, softwares, materiales, realización de exámenes o servicios de terceros, gastos en locomoción, pasajes y viáticos para el desarrollo del proyecto
     - Gastos de administración
     - Se financiarán las etapas de ejecución, seguimiento, control, publicación y difusión de resultados
+
 Proyectos de investigación:
+
 Subsidio total 24 meses 
+
 Plazo de 12 meses para revisiones panorámicas o revisiones sistemáticas o de análisis documental, métodos de estudio que no requieren trabajo en terreno. 
 
 Proyectos de iniciación en innovación:
 Subsidio total 12 meses
 
-Proyectos de continuidad en innovación: 
+## __Proyectos de continuidad en innovación:__
+
 Son proyectos que han superado las primeras etapas de innovación y tiene por objetivo el apoyo al diseño e implementación de un prototipo o piloto de innovación. Subsidio total 12 meses.
 
 Proyectos de implementación en innovación
@@ -226,12 +248,12 @@ Los proyectos de continuidad y de implementación en innovación deberán contar
 https://www.suseso.cl/605/w3-article-734803.html
 
 
-
-FONDOS CONCURSABLES VICERRECTORÍA DE INVESTIGACIÓN Y DESARROLLO (VID)
+##__FONDOS CONCURSABLES VICERRECTORÍA DE INVESTIGACIÓN Y DESARROLLO (VID)__
 
 La Vicerrectoría de Investigación y Desarrollo (VID) de la Universidad de Chile, tiene la misión de articular la investigación, innovación y creación artística que se realiza en las unidades académicas de la Universidad para contribuir al desarrollo del país y su inserción global.
 
 El objetivo de esta Vicerrectoría se logra de la siguiente manera:
+
     - Construyendo redes de investigación transdisciplinarias.
     - Realizando actividades de extensión con escuelas y municipalidades.
     - Estableciendo acuerdos y convenios con instituciones del Estado.
@@ -242,35 +264,29 @@ El objetivo de esta Vicerrectoría se logra de la siguiente manera:
 
 La Vicerrectoría cuenta con concursos internos a los cuales pueden postular los/las académicos/as de la Universidad de Chile. Dentro de ellos podemos señalar aquellos que tienen actualmente convocatorias anuales:
 
-U-Inicia. Inserción de nuevos académicos
-    - Su objetivo es facilitar la inserción productiva y sustentable de académicos de excelencia, de 
-contratación reciente (últimos 24 meses)
+## __U-Inicia. Inserción de nuevos académicos__
+
+    - Su objetivo es facilitar la inserción productiva y sustentable de académicos de excelencia, de contratación reciente (últimos 24 meses)
     - Dirigido a académicos/as jóvenes que posean contrato académico de al menos 22 horas
     - Grado académico de Doctor o Especialidad Médica, obtenido en los últimos 5 años
     - Los interesados deben alcanzar una productividad científica relevante y desarrollar una línea de investigación independiente.
     - El postulante no debe haberse adjudicado ningún financiamiento previo (VID, CONICYT)
     - Periodo máximo de ejecución: 24 meses.
-    - Financia: material fungible, equipos, bibliografía, publicaciones, viajes y viáticos
-nacionales, insumos laboratorio, tesistas, personal técnico y/o de apoyo, contratación
-de estudios de campo, entre otros.
+    - Financia: material fungible, equipos, bibliografía, publicaciones, viajes y viáticos nacionales, insumos laboratorio, 
+      tesistas, personal técnico y/o de apoyo, contratación de estudios de campo, entre otros.
     - Se deberá postular a concursos FONDECYT Regular, Iniciación u otro equivalente.
 
-U-Apoya, Ayuda de Viaje para Potenciar Productividad Académica 
-    - Destinado a académicos con postgrado (Mg, PhD, o Especialidad) y contrato de al menos  
-22 horas. 
+## __U-Apoya, Ayuda de Viaje para Potenciar Productividad Académica__
+
+    - Destinado a académicos con postgrado (Mg, PhD, o Especialidad) y contrato de al menos 22 horas. 
     - Financia como máximo dos Ayudas de Viaje por académico/a en un período de 5 años.
     - Viajes para presentaciones orales como conferencistas en congresos nacionales o internacionales y estadías de investigación en el extranjero por un máximo 3 meses 
 
-Proyecto de Enlace. Programa de Apoyo a Proyectos de Enlace con Concurso Fondecyt Regular
+## __Proyecto de Enlace. Programa de Apoyo a Proyectos de Enlace con Concurso Fondecyt Regular__
+
     - Su objetivo es mantener activas líneas de investigación de académicos que no renovaron su proyecto FONDECYT en el Concurso Regular anterior, habiendo sido investigador activo en este concurso en los últimos años. 
     - Podrán    participar   en   este   concurso  los/las investigadores/as   responsables  (IR) 
       de proyectos no seleccionados en el último Concurso FONDECYT  Regular habiendo finalizado  un  Proyecto FONDECYT Regular  a partir  de marzo  del año anterior  y que presenten un  nuevo proyecto al concurso FONDECYT Regular siguiente.
     - Con el propósito de lograr la transición entre el concurso FONDECYT de Iniciación y el Regular, pueden postular investigadores/as que finalizaron un proyecto de Iniciación FONDECYT y que no lograron adjudicarse un proyecto FONDECYT en el Concurso Regular reciente.
     - Duración: 12 meses 
 
-Información de bases, formularios y formas de cada instrumento, se encuentran en el sitio:
-https://uchile.cl/investigacion/investigacion/fondos-y-programas-vid
-
-Consultas con Postulaciones de Concursos Internos de la Unidad de Proyectos VID:  
-Paulina Caro: paulina.caro@uchile.cl - 229782342
-https://www.uchile.cl/investigacion
