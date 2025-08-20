@@ -13,9 +13,6 @@ __IMPORTANTE: Para seleccionar proyectos por criterios de Requisitos, Financiami
 
 
 
-
-
-
 ## __FONDECYT Regular__
 
 Este concurso financia proyectos de investigación científica o tecnológica 
@@ -67,21 +64,14 @@ Características:
 #https://anid.cl/proyectos-de-investigacion/fondecyt-iniciacion/
 
 
+## __Concurso para el Desafío Global de Longevidad Saludable 2025__
 
-## __ANILLOS de Investigación en Ciencia y/o Tecnología y en Ciencias Sociales__
 
-Este concurso busca fomentar el desarrollo científico y/o tecnológico del país, mediante investigación y desarrollo sustentados en un trabajo colaborativo, amplio y multidisciplinario. Promueve la conformación de grupos de investigación científica y/o tecnológica que trabajen bajo el alero de instituciones nacionales de investigación. Se busca fortalecer tanto la generación de conocimiento y el desarrollo de la ciencia y la tecnología, como la formación de capital humano.
 
-Los proyectos tendrán una duración de tres años y las líneas de financiamiento son:
 
-    - Proyecto de Anillo de Investigación en Líneas Temáticas en el área de Ciencias y/o Tecnología. 
-    - Financiamiento para tres años de ejecución.
-    - Proyecto de Anillo de Investigación en Líneas Temáticas en el área de Ciencias Sociales. 
-    
-    
-Financiamiento para tres años de ejecución.
 
-https://anid.cl/centros-e-investigacion-asociativa/anillos/
+
+
 
 
 ## __Fondos Concursables Iniciativa Científica Milenio ICM__
@@ -201,44 +191,6 @@ es un servicio público descentralizado, con patrimonio propio y personalidad ju
 
 La misión de CORFO es fomentar la inversión, la innovación y el emprendimiento, fortaleciendo, además, el capital humano y el desarrollo tecnológico para mejorar la productividad del país y alcanzar posiciones de liderazgo mundial en materia de competitividad.
 https://corfo.cl/sites/cpp/programasyconvocatorias
-
-
-## __CORFO - Programa Start-Up Chile Líneas 1, 2 y 3__:
-
-Línea 1: “Build”: atraer, potenciar y crear nuevos emprendimientos tecnológicos de alto impacto con visión global. 
-Para aquellos proyectos con un desarrollo comercial de hasta 12 meses y que se encuentran en etapa de idea, concepto o de prototipado.
-
-    - Plazo: La ejecución de los proyectos deberá ser de 4 meses.
-    - Subsidio Corfo: para el/la beneficiario/a. Corfo cofinanciará hasta el 90% del costo total del
-      proyecto.
-    - Pago de Overhead a la Entidad Patrocinadora para Start-Up Chile.
-      
-
-Línea 2: “Ignite”: generar un impacto socioeconómico en Chile, a través del apoyo a emprendimientos tecnológicos innovadores que permitan sofisticar y/o diversificar la matriz económica del país.
-Para aquellos proyectos con desarrollo comercial de hasta 36 meses, que utilicen a Chile como plataforma, y que cuenten, al menos, con un producto mínimo viable (MVP) o prototipo funcional de la solución.
-
-    - Plazo: La ejecución de los proyectos de hasta 6 meses.
-    - Subsidio Corfo para el/la beneficiario/a. Corfo cofinanciará hasta el 80% del costo total del
-      proyecto. Respecto de la líder del proyecto cuyo sexo registral sea femenino, Corfo cofinanciará
-      hasta el 90% del costo total del proyecto.
-    - Pago de Overhead a la Entidad Patrocinadora para Start-Up Chile.
-
-Línea 3: “Growth”: Generar un impacto socioeconómico en Chile, a través del apoyo a emprendimientos tecnológicos innovadores que permitan sofisticar y/o diversificar la matriz económica del país.
-Se deberá demostrar que el proyecto global (tanto en Chile como en el extranjero) ha tenido ingresos por ventas, en los 12 meses anteriores al mes de apertura del concurso.
-
-    - Plazo de ejecución de los proyectos de hasta 12 meses.
-    - Subsidio Corfo: cofinanciará hasta el 50 % del costo total del proyecto. Respecto de la líder del
-      proyecto cuyo sexo registral sea femenino, Corfo cofinanciará hasta el 60% del costo total del
-      proyecto.
-    - Pago de Overhead a la Entidad Patrocinadora para Start-Up Chile. 
-
-https://startupchile.org/
-
-## __Fundación para la Innovación Agraria FIA__
-
-La Fundación para la Innovación Agraria (FIA) es la agencia de innovación del Ministerio de Agricultura. Su misión es contribuir a la solución eficiente de desafíos estratégicos del sector silvoagropecuario nacional y/o de la cadena agroalimentaria asociada, por medio del fomento, articulación y difusión tecnológica de procesos de innovación orientados al desarrollo sustentable.
-
- http://www.fia.cl/convocatorias/
 
 
 ## __Superintendencia de Seguridad Social (SUSESO)__
