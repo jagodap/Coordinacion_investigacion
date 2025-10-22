@@ -26,7 +26,7 @@ ui <- fluidPage(
   sidebarLayout(
     sidebarPanel(
       uiOutput("toc"),
-            width = 3,
+      width = 3,
       checkboxGroupInput("filtro_req", "Filtro por requisito:",
                          choices = unique(timeline_data$Req),
                          selected = unique(timeline_data$Req)),
@@ -36,9 +36,13 @@ ui <- fluidPage(
       checkboxGroupInput("filtro_finan", "Filtro por Financiamiento:",
                          choices = unique(timeline_data$Finan),
                          selected = unique(timeline_data$Finan)),
-            checkboxGroupInput("filtro_orien", "Filtro por Orientación:",
+      checkboxGroupInput("filtro_orien", "Filtro por Orientación:",
                          choices = unique(timeline_data$Orien),
                          selected = unique(timeline_data$Orien)),
+      checkboxGroupInput("filtro_convo", "Filtro por Convocatoria:",
+                         choices = unique(timeline_data$Convo),
+                         selected = unique(timeline_data$Convo)),
+      
       
       actionButton("reset_filters", "Resetear Filtros")
     ),
@@ -61,13 +65,14 @@ server <- function(input, output, session) {
   
   # Reactive filtered data
   filtered_data <- reactive({
-    req(input$filtro_req, input$filtro_tipo, input$filtro_finan)
+    req(input$filtro_req, input$filtro_tipo, input$filtro_finan, input$filtro_convo)
     
     timeline_data %>%
       filter(Req %in% input$filtro_req,
              Tipo %in% input$filtro_tipo,
              Finan %in% input$filtro_finan,
-             Orien %in% input$filtro_orien
+             Orien %in% input$filtro_orien,
+             Convo %in% input$filtro_convo
              
       )
   })
