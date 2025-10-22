@@ -125,7 +125,8 @@ Plazo de ejecución para Institutos nuevos: 120 meses
 	
 Plazo de ejecución para Núcleos nuevos como renovación: 36 meses
 
-https://www.iniciativamilenio.cl/
+
+https://anid.cl/centros-e-investigacion-asociativa/nucleos-milenio/
 
 
 ## __FONIS Fondo Nacional de Investigación y Desarrollo en Salud__ 
@@ -251,57 +252,4 @@ Son proyectos avanzados que están en etapa de implementación de la innovación
 Los proyectos de continuidad y de implementación en innovación deberán contar con la participación de una organización o entidad en donde se implementará la innovación
 
 https://www.suseso.cl/605/w3-article-734803.html
-
-
-##__FONDOS CONCURSABLES VICERRECTORÍA DE INVESTIGACIÓN Y DESARROLLO (VID)__
-
-La Vicerrectoría de Investigación y Desarrollo (VID) de la Universidad de Chile, tiene la misión de articular la investigación, innovación y creación artística que se realiza en las unidades académicas de la Universidad para contribuir al desarrollo del país y su inserción global.
-
-El objetivo de esta Vicerrectoría se logra de la siguiente manera:
-
-    - Construyendo redes de investigación transdisciplinarias.
-    - Realizando actividades de extensión con escuelas y municipalidades.
-    - Estableciendo acuerdos y convenios con instituciones del Estado.
-    - Firmando contratos de licencias con empresas. Generando normativas y reglamentos académicos.
-    - Generando distintas plataformas de difusión social.
-    - Consolidando un cambio cultural en innovación y creación artística.
-    - Instalando a la internacionalización como un valor transversal en el quehacer universitario.
-
-La Vicerrectoría cuenta con concursos internos a los cuales pueden postular los/las académicos/as de la Universidad de Chile. Dentro de ellos podemos señalar aquellos que tienen actualmente convocatorias anuales:
-
-## __U-Inicia. Inserción de nuevos académicos__
-
-    - Su objetivo es facilitar la inserción productiva y sustentable de académicos de excelencia, de
-      contratación reciente (últimos 24 meses)
-    - Dirigido a académicos/as jóvenes que posean contrato académico de al menos 22 horas
-    - Grado académico de Doctor o Especialidad Médica, obtenido en los últimos 5 años
-    - Los interesados deben alcanzar una productividad científica relevante y desarrollar una línea de
-      investigación independiente.
-    - El postulante no debe haberse adjudicado ningún financiamiento previo (VID, CONICYT)
-    - Periodo máximo de ejecución: 24 meses.
-    - Financia: material fungible, equipos, bibliografía, publicaciones, viajes y viáticos nacionales,
-      insumos laboratorio,tesistas, personal técnico y/o de apoyo, contratación de estudios de campo,
-      entre otros.
-    - Se deberá postular a concursos FONDECYT Regular, Iniciación u otro equivalente.
-
-## __U-Apoya, Ayuda de Viaje para Potenciar Productividad Académica__
-
-    - Destinado a académicos con postgrado (Mg, PhD, o Especialidad) y contrato de al menos 22 horas. 
-    - Financia como máximo dos Ayudas de Viaje por académico/a en un período de 5 años.
-    - Viajes para presentaciones orales como conferencistas en congresos nacionales o internacionales y
-      estadías de investigación en el extranjero por un máximo 3 meses 
-
-## __Proyecto de Enlace. Programa de Apoyo a Proyectos de Enlace con Concurso Fondecyt Regular__
-
-    - Su objetivo es mantener activas líneas de investigación de académicos que no renovaron su proyecto
-      FONDECYT en el Concurso Regular anterior, habiendo sido investigador activo en este concurso en los
-      últimos años. 
-    - Podrán    participar   en   este   concurso  los/las investigadores/as   responsables  (IR)
-      de proyectos no seleccionados en el último Concurso FONDECYT  Regular habiendo finalizado  un
-      Proyecto FONDECYT Regular  a partir  de marzo  del año anterior  y que presenten un  nuevo proyecto
-      al concurso FONDECYT Regular siguiente.
-    - Con el propósito de lograr la transición entre el concurso FONDECYT de Iniciación y el Regular,
-      pueden postular investigadores/as que finalizaron un proyecto de Iniciación FONDECYT y que no
-      lograron adjudicarse un proyecto FONDECYT en el Concurso Regular reciente.
-    - Duración: 12 meses 
 
