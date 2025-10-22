@@ -61,17 +61,39 @@ Características:
     - Postulación en inglés para algunas áreas (biología-medicina) y a través de plataforma en línea
     - Se requiere patrocinio institucional
 
-#https://anid.cl/proyectos-de-investigacion/fondecyt-iniciacion/
+https://anid.cl/proyectos-de-investigacion/fondecyt-iniciacion/
 
 
 ## __Concurso para el Desafío Global de Longevidad Saludable 2025__
 
 
+Es una convocatoria que es parte del acuerdo firmado entre la Agencia Nacional de Investigación y Desarrollo, ANID y la Academia Nacional de Medicina de los Estados Unidos, NAM, para promover cooperación científico-tecnológica entre ambas organizaciones y sus respectivos países.
+
+Incluye tres etapas:
+
+    • Fase 1: Fase catalizadora (“Catalyst Phase”). Su propósito es estimular ideas innovadoras.
+    • Fase 2: Fase de aceleración. Las y los galardonados y finalistas de la Fase Internacional Catalizadora que logren un progreso significativo en el avance de sus ideas y una prueba de concepto, serán premiados en esta etapa.
+    • Fase 3: Gran premio. Se otorga a una o más innovaciones consideradas como avances disruptivos.
+
+La Fase 1 considera la asociación con socios globales, quienes gestionan y financian la “Fase Catalizadora”, cuyo objetivo es estimular la presentación de ideas innovadoras para promover una longevidad saludable. Por lo anterior, la ANID, asumiendo su liderazgo a nivel regional, convoca la presentación de propuestas de investigación en el marco de esta iniciativa.
+Temas de investigación
 
 
+Características:
 
+    - Duración de hasta 12 meses 
+    - Personal responsable: Director de proyecto e Investigador
+    - Postulación en Inglés
+    
+    
+Temas: 
 
+    - Tecnologías para el cuidado de personas mayores y prestación de asistencia médica y/o farmacéutica.
+    - Envejecimiento saludable en el lugar: tecnologías para el entorno construido, redes y acceso a servicios.
+    - Tecnologías para inclusión social y la participación activa de personas mayores en lo laboral, digital, cultural, económica y redes de apoyo.
+    - Estrategias de intervención para el proceso de envejecimiento.
 
+https://anid.cl/concursos/concurso-para-el-desafio-global-de-longevidad-saludable-nam-2025/
 
 
 ## __Fondos Concursables Iniciativa Científica Milenio ICM__
@@ -168,7 +190,6 @@ Aporte de Asociadas: al menos un 15% del monto solicitado a FONDEF (incremental 
 
 https://anid.cl/concursos/concurso-idea-id-2025/
 
-ANID: https://www.anid.cl/
 
 
 ## __Start Up Ciencia - Investigación Aplicada__
@@ -190,6 +211,8 @@ https://anid.cl/investigacion-aplicada-e-innovacion/startup-ciencia/
 es un servicio público descentralizado, con patrimonio propio y personalidad jurídica.
 
 La misión de CORFO es fomentar la inversión, la innovación y el emprendimiento, fortaleciendo, además, el capital humano y el desarrollo tecnológico para mejorar la productividad del país y alcanzar posiciones de liderazgo mundial en materia de competitividad.
+
+
 https://corfo.cl/sites/cpp/programasyconvocatorias
 
 
@@ -208,6 +231,11 @@ Proyectos de investigación:
 Subsidio total 24 meses 
 
 Plazo de 12 meses para revisiones panorámicas o revisiones sistemáticas o de análisis documental, métodos de estudio que no requieren trabajo en terreno. 
+
+
+https://www.suseso.cl/605/w3-article-761349.html
+
+
 
 ## __Proyectos de iniciación en innovación:__
 
