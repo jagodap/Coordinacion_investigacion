@@ -112,8 +112,3 @@ shinyApp(ui, server)
 
 
 
-
-
-#deployApp()
-
-
