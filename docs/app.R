@@ -1,6 +1,3 @@
-Sys.setlocale("LC_ALL", "en_US.UTF-8")
-options(encoding = "UTF-8")
-
 
 
 library(shiny)
@@ -110,5 +107,5 @@ server <- function(input, output, session) {
 
 shinyApp(ui, server)
 
-system("chmod -R 755 shinylive/")
+#system("chmod -R 755 shinylive/")
 
