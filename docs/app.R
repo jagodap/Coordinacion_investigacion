@@ -110,5 +110,5 @@ server <- function(input, output, session) {
 
 shinyApp(ui, server)
 
-
+system("chmod -R 755 shinylive/")
 
