@@ -1,0 +1,39 @@
+# _config.yml
+
+# Set cache control for different file types
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      cache_control: "public, max-age=31536000" # 1 year for images
+  
+  - scope:
+      path: "assets/css"
+    values:
+      cache_control: "public, max-age=86400" # 1 day for CSS
+  
+  - scope:
+      path: "assets/js"
+    values:
+      cache_control: "public, max-age=86400" # 1 day for JS
+  
+  - scope:
+      path: "**/*.html"
+    values:
+      cache_control: "public, max-age=3600" # 1 hour for HTML
+      
+      
+      
+ # _config.yml
+
+# Enable cache busting
+sass:
+  style: compressed
+
+# Add fingerprinting to CSS/JS
+assets:
+  cache: false
+  digest: true
+  compress:
+    css: true
+    js: true
