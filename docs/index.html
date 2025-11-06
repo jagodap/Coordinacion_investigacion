@@ -38,3 +38,17 @@ if ('serviceWorker' in navigator) {
   });
 }
 </script>
+
+
+
+<script src="./shinylive/load-shinylive-sw.js?v=2" type="module"></script>
+<script type="module">
+  import { runExportedApp } from "./shinylive/shinylive.js?v=2";
+  runExportedApp({
+    id: "root",
+    appEngine: "r",
+    relPath: "",
+  });
+</script>
+<link rel="stylesheet" href="./shinylive/style-resets.css?v=2" />
+<link rel="stylesheet" href="./shinylive/shinylive.css?v=2" />
