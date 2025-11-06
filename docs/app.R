@@ -14,7 +14,19 @@ library(htmltools)
 library(markdown)
 
 
-timeline_data <- read.csv("datos.csv", fileEncoding = "UTF-8")
+data <- reactiveFileReader(
+  intervalMillis = 10000,  # Check every 10 seconds
+  session = NULL,
+  filePath = "datos.csv",
+  readFunc = function(file) {
+    read.csv("datos.csv", encoding = "UTF-8")
+  }
+)
+
+output$timeline <- renderTimevis({
+  timeline_data <- data()
+  # Your existing timeline code using df
+})
 
 
 ui <- fluidPage(
@@ -52,7 +64,7 @@ ui <- fluidPage(
       timevisOutput("timeline"),
       
       div(style = "margin-bottom: 50px; padding: 20px; background-color: #f5f5f5;",
-          includeMarkdown("lista.md"))
+          includeMarkdown(paste0("lista.md?", as.numeric(Sys.time()))))
       
     )
   )
