@@ -160,6 +160,8 @@ server <- function(input, output, session) {
     }
   })
   
+  
+  
   # Render markdown content
   output$markdown_content <- renderUI({
     markdown_content()
