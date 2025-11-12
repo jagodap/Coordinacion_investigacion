@@ -63,6 +63,8 @@ server <- function(input, output, session) {
     }
   )
   
+  
+  
   # Reactive file reader for lista.md
   markdown_content <- reactiveFileReader(
     intervalMillis = 2000,  # Check every 2 seconds
